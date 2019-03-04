@@ -1,4 +1,3 @@
-
 $(document).ready(function(){
     var verify_form = $("#verify");
     verify_form.submit( function(e) {
